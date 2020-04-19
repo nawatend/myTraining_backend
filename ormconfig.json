@@ -4,7 +4,7 @@
    "port": 3306,
    "username": "b7a6a48bdcb1dc",
    "password": "95f84435",
-   "database": "my_training",
+   "database": "heroku_c82396669fa1c06",
    "synchronize": true,
    "logging": false,
    "entities": [
