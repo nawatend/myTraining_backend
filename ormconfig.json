@@ -1,10 +1,11 @@
+
 {
    "type": "mysql",
-   "host": "eu-cdbr-west-03.cleardb.net",
+   "host": "localhost",
    "port": 3306,
-   "username": "b7a6a48bdcb1dc",
-   "password": "95f84435",
-   "database": "heroku_c82396669fa1c06",
+   "username": "root",
+   "password": "",
+   "database": "my_training",
    "synchronize": true,
    "logging": false,
    "entities": [
