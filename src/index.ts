@@ -33,6 +33,9 @@ createConnection().then(async connection => {
     //     });
     // });
     app.use("/api/", api);
+    app.get("/", (req, res) => {
+        res.send("Welcome to MyTraining API")
+    })
 
     // setup express app here
     // ...
